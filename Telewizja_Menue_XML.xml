@@ -1,7 +1,7 @@
-
-<dir>
-	<title>[B] Telewizja TV 1 [/B]</title>
-	<link> </link>
-	<thumbnail></thumbnail>
-</dir>
-
+<item>
+	<title>[B] TVP 1 [/B]</title>
+  	<link>
+  	<sublink>http://internetowa.tv/?c=hlsPlay&channel=tvp1&token=81e329384edd823f561643b3dc2b2523d71386b9638a21c7f2067cb3d647497d16065ee6b95e4adb92ba71c02e92d15e3eb30eb998614ed1406f58491b982b9d</sublink>
+  	</link>
+	<thumbnail>https://internetowa.tv/img/logo/tvp-1.png</thumbnail>
+</item>
